@@ -1,6 +1,6 @@
-![https://github.com/ebgonzal](https://raw.githubusercontent.com/ebgonzal/ebgonzal/master/map4.JPG)
-
 ### Hi there  👋, I´m Eliana. Geospatial Data Scientist
+
+![https://github.com/ebgonzal](https://raw.githubusercontent.com/ebgonzal/ebgonzal/master/map4.JPG)
 
 I've been working as a scientist for the last 10 years, but now I'm ready to exit academia. I love mapping and analyzing data, any kind of data. I studied environmental sciences because since I was a child I dreamed to  save Bengal tigers, but along the way, I realized that to address environmental issues, I needed to deeply understand the agricultural matrix. Apart from this, I have two :smile_cat: and I enjoy organizing in the style of Marie Kondo.
 
