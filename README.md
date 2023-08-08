@@ -1,4 +1,4 @@
-![https://github.com/ebgonzal](https://raw.githubusercontent.com/ebgonzal/ebgonzal/master/map2.jpeg)
+![https://github.com/ebgonzal](https://raw.githubusercontent.com/ebgonzal/ebgonzal/master/map4.JPG)
 
 ### Hi there  👋, I´m Eliana. Geospatial Data Scientist
 
